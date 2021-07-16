@@ -9,11 +9,11 @@ h1{
     color: red;
 }
 .half-width{
-    width: 68%;
-    float:left
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 5%;
 }
-.pic{
-    width: 10%;
-    float:left
-
+.half-width img{
+    width 0%
 }
