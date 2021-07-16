@@ -1,0 +1,19 @@
+
+body{
+    font-family: 'Permanent Marker', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: red;
+}
+.half-width{
+    width: 68%;
+    float:left
+}
+.pic{
+    width: 10%;
+    float:left
+
+}
